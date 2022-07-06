@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\PointsMicroservice.exe
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\PointsMicroservice.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\PointsMicroservice.deps.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\PointsMicroservice.runtimeconfig.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\PointsMicroservice.pdb
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Points\PointsMicroservice\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
