@@ -8,7 +8,7 @@ namespace PointsMicroservice.Models
         public HttpClient Initial()
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:443/");
+            client.BaseAddress = new Uri("https://offermfpe.azurewebsites.net/");
             return client;
         }
     }
